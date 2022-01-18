@@ -1,15 +1,17 @@
 # Óla! Sou Desevolvedor Web E Me Chamo Alisson Costa  
 </br></br></br>
 <div align="center">
-  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=allissoncosta&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="154em" src="https://github-readme-stats.vercel.app/api?username=allissoncosta&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   </br></br></br>
-  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allissoncosta&layout=compact&langs_count=7&theme=aura"/>
+  <img height="154em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allissoncosta&layout=compact&langs_count=7&theme=aura"/>
 </div>
 </br></br></br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alisson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alisson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Alisson-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Alisson-React" height="40" width="40" src="https://img.icons8.com/fluency/48/000000/wordpress.png">
   <img align="right" alt="Alisson-bitmoji" height="250" style="border-radius:50px;" src="./img/Alisson.png">
 </div> 
  
